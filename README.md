@@ -11,7 +11,7 @@ Bryan Wilder, Bistra Dilkina, Milind Tambe. Melding the Data-Decisions Pipeline:
 }
 ```
 
-Included are differentiable solvers for LPs and submodular maximization, along with code to run the experiments in the paper. You can [download](http://teamcore.usc.edu/people/bryanwilder/files/data_decisions_benchmarks.zip) the datasets from my website.
+Included are differentiable solvers for LPs and submodular maximization, along with code to run the experiments in the paper. You can [download](https://bryanwilder.github.io/files/data_decisions_benchmarks.zip) the datasets from my website.
 
 # Dependencies
 * The linear programming experiments use the [Gurobi](http://www.gurobi.com/) solver.
